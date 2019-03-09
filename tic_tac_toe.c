@@ -53,6 +53,8 @@ void main()
         printf("\n\n\t*****THANKX FOR PLAYING*****\n");
     else
         goto r;
+    
+    system("pause");
 }
 /**TO PLAY THE GAME**/
 
